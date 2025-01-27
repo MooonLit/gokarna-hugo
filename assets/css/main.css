@@ -376,14 +376,17 @@ table td {
 }
 
 /* HOME PAGE */
+
 .home-about {
   text-align: center;
 }
 
 .home-about .avatar img {
   border-radius: 50%;
+  object-position: 50% 35%;
   height: auto;
   object-fit: cover;
+  zoom: 150%;
 }
 
 /* Avatar sizes (default is M) - XS, S, M, L, XL */
